@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
+## About me
+-----------
+- 🔭 I’m junior software developer currently looking for job opportunities to improve my skills.
+- 🌱 I’m also an artist mainly working with photography, video, and installation works. 
 <!--
 **kawrou/kawrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
