@@ -2,7 +2,7 @@
 
 ## About me
 -----------
-- 🔭 I’m junior software developer currently looking for job opportunities to improve my skills.
+- 🔭 I’m a junior software developer currently looking for job opportunities to improve my skills.
 - 🖋️ I started learning to code towards the end of 2022 by following The Odin Project.
 - :school_satchel: I decided to commit to changing careers and joined Makers Academy bootcamp in October 2023.
 - 🗣️ I can speak English, Cantonese, and Korean.
