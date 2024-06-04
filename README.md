@@ -8,6 +8,18 @@
 - 🗣️ I can speak English, Cantonese, and Korean.
 - 🌱 I’m also an artist mainly working with photography, video, and installation works.
 
+| Name | Description | Features  | Timeframe |Technologies |
+|----|-------------|------------|--------------|---------|
+| [Qwixx][1]|An online multiplayer version of the boardgame Qwixx developed with [kashida2021][2].| A lobby to connect with other players. Uses websockets for live communication for player's moves.| In development | TypeScript, React, Node, Express, Socket.io, Vite(build tool) Vitest, Jest|
+|[Recipeasy][3]| A recipe management web app developed as a group project. | Account creation and login. User can input a URL to scrape a webpage for a food recipe. Users can create and edit recipes. Users can view all their recipes. Recipes are saved to a database | 9 days | MongoDB, Node, Express, Javascript, React, Vite(build tool), Vitest, Jest, Tailwind|
+| [Acebook][4] | Full-stack Facebook inspired web app developed as a group project.| Account creation and login using JWT for authentication. Users can create new posts and comments that are saved to a database. Picture upload to cloudinary. | 9 days | MongoDB, Node, Express, Javascript, React, Vite(build tool), Vitest, Jest, Tailwind|
+|[MakersBnB][5]| Full-stack Airbnb inspired web app developed as a group project. | Account creation and login. Password hashing with bcrypt. Users can create a property listing as well as book a property.| 4 days | Python, Flask, PostgreSQL, Bootstrap, HTML| 
+
+[1]:https://github.com/kashida2021/qwixx_game
+[2]:https://github.com/kashida2021
+[3]:https://github.com/kawrou/RecipEasy-recipe-manager
+[4]:https://github.com/JonnySB/makers-010-acebook-MERN-stack
+[5]:https://github.com/kawrou/MakersBnB
 ---
 If you want to contact me about my code, job opportunities, or anything else you can:
 - 👈 find my LinkedIn profile on the left 
