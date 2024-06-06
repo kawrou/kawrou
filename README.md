@@ -4,7 +4,7 @@
 - 🔭 I’m a junior software developer currently looking for job opportunities to challenge myself.
 - 🖋️ I started learning to code towards the end of 2022 by following The Odin Project.
 - :school_satchel: I was an English teacher in Korea before deciding to commit to a career change and joined Makers Academy bootcamp in October 2023.
-- Love TDD.
+- ❤️ Love TDD.
 - ⚡ What excites me most about software development is the challenge of problem solving, breaking it down into manageable chunks, and seeing a project slowly come to life with just a few lines of code. 
 - 🗣️ I can speak English, Cantonese, and Korean.
 - 🌱 My background as an artist has taught to look at things from different angles, to work independently, and to constantly pick up new skills like 3D modelling and animation with Cinema4D. 
@@ -41,6 +41,13 @@
 [3]:https://github.com/kawrou/RecipEasy-recipe-manager
 [4]:https://github.com/JonnySB/makers-010-acebook-MERN-stack
 [5]:https://github.com/kawrou/MakersBnB
+## Skills:
+### Software Development:
+TDD, OOP, Agile, breaking down problems into user stories. 
+
+### Soft skills: 
+I believe that one of my core qualities is planning out my work and to anticipate different outcomes, whether it be ideas for artworks or creating lesson plans. However, my time teaching elementary and middle school students has also taught me that flexibility is also an important skill. You can plan as far ahead as you want but you have to be aware that you're working with other people as well and it doesn't always go to plan. I learnt that the hard way, you can imagine what it's like teaching teenagers. From that experience I have become more aware of the needs of others, whether they are in a more senior or junior position, and how to work collaboratively. My time at Makers has only reinforced that further through EI workshops, pair programming and constructive feedback. 
+Being an artist has also taught me to be proactive and seek out new solutions to ideas. I've had to learn new skills like 3D modelling and large format photography through my own research. I believe this goes hand in hand with software development as a core skill is the ability to be independent in finding solutions to programming problems by reading through documentation, looking at past implementations. 
 
 ## Software Development Experience:
 **Makers Academy | Full Stack Software Engineering Bootcamp | 10/2023 - 03/2024**
@@ -82,7 +89,7 @@ I'm a practicing artist working mainly with photography, video and installation.
 - **Games:** Been a fan of RPGs like Final Fantasy since FF9 and also a big fan of Hideo Kojima (Metal Gear Solid series and Death Stranding). Got into board games during covid. Now amassed a large collection of them. Most replayed is probably _"Catan"_. Most recent additions are _"Ready, Set, Bet"_, _"Las Vegas"_, and _"Coffee Rush"_. 
 - **Languages:** Despite growing up in a bilingual environment (Cantonese, English) and probably because of it, I was never good at European langauges growing up. However, one of the best skills I gained whilst living in Korea was studying and becoming conversational in Korean.
 - **Photograpy:** Might come as no suprise that I love all things photography, from the histories of camera models and companies, to collecting cameras and analogue photography. Currently trying to curate photos taken with a large format camera for a photo book. 
-- **Fashion:** Spent too much time reading about fabrics, origins of designs and the history of menswear. 
+- **Fashion:** Spent too much time reading about fabrics, origins of designs and the history of menswear. Really appreciate brands that think about how and where they produce their clothes and shedding light on artisnal techniques. I can talk about anything from classical menswear and good-year welted shoes to vintage workwear and milsurp to Goprcore. Current favourite British brands are Story MFG. and Studio Nicholson. Current favourite Japanese brands are Still By Hand, Old Joe and Sillage.
 
 If you want to contact me about my code, job opportunities, or anything else you can:
 - 👈 find my LinkedIn profile on the left 
