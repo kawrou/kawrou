@@ -8,7 +8,7 @@
 - ⚡ What excites me most about software development is the challenge of problem solving, breaking it down into manageable chunks, and seeing a project slowly come to life with just a few lines of code. 
 - 🗣️ I can speak English, Cantonese, and Korean.
 - 🌱 My background as an artist has taught to look at things from different angles, to work independently, and to constantly pick up new skills like 3D modelling and animation with Cinema4D. 
-- 📕 Currently deepending my understanding of JS and full stack web development through The Odin Project's full stack JS path and learning TypeScript through an online multiplayer implemenation of the board game Qwixx. 
+- 📕 Currently deepening my understanding of JS and full stack web development through The Odin Project's full stack JS path and learning TypeScript through an online multiplayer implemenation of the board game Qwixx. 
 
 ## Currently using:
 <div>
@@ -43,11 +43,11 @@
 [5]:https://github.com/kawrou/MakersBnB
 ## Skills:
 ### Software Development:
-TDD, OOP, Agile, breaking down problems into user stories. 
+I am a strong proponent of test-driven development (TDD) and have embraced as a core skill to my software development practice. While there are cons, such as a false sense of security, slower development time (in the short term) and high barrier of entry, I believe the benefits outweights the disadvantages. I'm committed to improving my TDD skills. Other skills I have acquired are object-oriented programming (OOP) principles, Agile methodologies, and a strong problem solving mindset. I'm looking for opportunities to put these skills to use and to further improve on them. 
 
 ### Soft skills: 
 I believe that one of my core qualities is planning out my work and to anticipate different outcomes, whether it be ideas for artworks or creating lesson plans. However, my time teaching elementary and middle school students has also taught me that flexibility is also an important skill. You can plan as far ahead as you want but you have to be aware that you're working with other people as well and it doesn't always go to plan. I learnt that the hard way, you can imagine what it's like teaching teenagers. From that experience I have become more aware of the needs of others, whether they are in a more senior or junior position, and how to work collaboratively. My time at Makers has only reinforced that further through EI workshops, pair programming and constructive feedback. 
-Being an artist has also taught me to be proactive and seek out new solutions to ideas. I've had to learn new skills like 3D modelling and large format photography through my own research. I believe this goes hand in hand with software development as a core skill is the ability to be independent in finding solutions to programming problems by reading through documentation, looking at past implementations. 
+Being an artist has also taught me to be proactive and seek out new solutions to ideas. I've had to learn new skills like 3D modelling and large format photography through my own research. I believe this goes hand in hand with software development as a core skill is the ability to be independent in finding solutions to programming problems by reading through documentation and looking at past implementations. 
 
 ## Software Development Experience:
 **Makers Academy | Full Stack Software Engineering Bootcamp | 10/2023 - 03/2024**
@@ -86,13 +86,13 @@ I'm a practicing artist working mainly with photography, video and installation.
 
 ## Hobbies & Other Interests
 - **Sports:** Basketball has always been my hobby. Picked up badminton more seriously through coaching sessions whilst teaching in Korea.
-- **Games:** Been a fan of RPGs like Final Fantasy since FF9 and also a big fan of Hideo Kojima (Metal Gear Solid series and Death Stranding). Got into board games during covid. Now amassed a large collection of them. Most replayed is probably _"Catan"_. Most recent additions are _"Ready, Set, Bet"_, _"Las Vegas"_, and _"Coffee Rush"_. 
-- **Languages:** Despite growing up in a bilingual environment (Cantonese, English) and probably because of it, I was never good at European langauges growing up. However, one of the best skills I gained whilst living in Korea was studying and becoming conversational in Korean.
+- **Games:** Been a fan of RPGs like Final Fantasy since FF9 and also a big fan of Hideo Kojima (Metal Gear Solid series and Death Stranding). Finally started Zelda: Tears of the Kingdom. Got into board games during covid. Now amassed a large collection of them. Most replayed is probably _"Catan"_. Most recent additions are _"Ready, Set, Bet"_, _"Las Vegas"_, and _"Coffee Rush"_. 
+- **Languages:** Despite growing up in a bilingual environment (Cantonese, English) and probably because of it, I was never good at European langauges growing up. However, one of the best skills I gained whilst living in Korea was studying and becoming conversational in Korean. Now I'm fascinated by etymology of words and phonetics. 
 - **Photograpy:** Might come as no suprise that I love all things photography, from the histories of camera models and companies, to collecting cameras and analogue photography. Currently trying to curate photos taken with a large format camera for a photo book. 
 - **Fashion:** Spent too much time reading about fabrics, origins of designs and the history of menswear. Really appreciate brands that think about how and where they produce their clothes and shedding light on artisnal techniques. I can talk about anything from classical menswear and good-year welted shoes to vintage workwear and milsurp to Goprcore. Current favourite British brands are Story MFG. and Studio Nicholson. Current favourite Japanese brands are Still By Hand, Old Joe and Sillage.
 
 If you want to contact me about my code, job opportunities, or anything else you can:
-- 👈 find my LinkedIn profile on the left 
+- find my a link above to my LinkedIn profile  
 - Open an issue on the repository you want to ask a question about
 <!--
 **kawrou/kawrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
