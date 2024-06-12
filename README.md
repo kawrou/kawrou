@@ -92,7 +92,7 @@ I'm a practicing artist working mainly with photography, video and installation.
 - **Fashion:** Spent too much time reading about fabrics, origins of designs and the history of menswear. Really appreciate brands that think about how and where they produce their clothes and shedding light on artisnal techniques. I can talk about anything from classical menswear and good-year welted shoes to vintage workwear and milsurp to Goprcore. Current favourite British brands are Story MFG. and Studio Nicholson. Current favourite Japanese brands are Still By Hand, Old Joe and Sillage.
 
 If you want to contact me about my code, job opportunities, or anything else you can:
-- find my a link above to my LinkedIn profile  
+- find a link above to my LinkedIn profile  
 - Open an issue on the repository you want to ask a question about
 <!--
 **kawrou/kawrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
