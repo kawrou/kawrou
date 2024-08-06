@@ -38,7 +38,7 @@
 
 [1]:https://github.com/kashida2021/qwixx_game
 [2]:https://github.com/kashida2021
-[3]:https://github.com/kawrou/RecipEasy-recipe-manager
+[3]:https://github.com/kawrou/recipeasy_fork
 [4]:https://github.com/JonnySB/makers-010-acebook-MERN-stack
 [5]:https://github.com/kawrou/MakersBnB
 ## Skills:
