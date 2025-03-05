@@ -20,7 +20,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 <!--[Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)-->
 
-
 #### Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -107,11 +106,10 @@ I'm a practicing artist working mainly with photography, video and installation.
 -->
 
 ## Contact
-If you want to contact me about my code, job opportunities, or anything else you can:
+📌 **Looking to connect?** Reach out via:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alan-gardiner-1566892b6/)
+- 🛠 **GitHub Issues** (for project-related questions)
 
-👈 find a link bio to my LinkedIn profile  
-
-Open an issue on the repository you want to ask a question about
 <!--
 **kawrou/kawrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
