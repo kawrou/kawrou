@@ -1,7 +1,7 @@
 ## About me:
 - I'm a full-stack developer based in London specialising in **JavaScript, TypeScript, React, Node.js, PostgreSQL, and Python**.
-- I enjoy working across the stack, building responsive and accssible frontends, scalable backends, and writing well-tested code using TDD.
-- I'm also exploring Scala and funcitonal programming to expand my backend knowledge.
+- I enjoy working across the stack—building responsive and accessible frontends, scalable backends, and writing well-tested code using TDD.
+- I'm currently exploring Scala and functional programming to deepen my backend knowledge.
 
 - I transitioned into software development after years of working as a teacher. My background in education shaped my ability to **break down complex problems, work collaboratively, and adapt quickly to new challenges** - all skills I now apply in software development.
 
@@ -40,8 +40,8 @@ Here's a link to my [GitHub CV](https://github.com/kawrou/CV)
 
 ## Contact
 📌 **Looking to connect?** Reach out via:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alan-gardiner-1566892b6/)
-- 🛠 **GitHub Issues** (for project-related questions)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alan-gardiner-1566892b6/) for job opportunities and networking
+- 🛠 Open a **GitHub Issue** on any repository for project-related discussions
 
 <!--
 **kawrou/kawrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
