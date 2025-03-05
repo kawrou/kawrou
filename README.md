@@ -38,6 +38,14 @@ Here's a link to my [GitHub CV](https://github.com/kawrou/CV)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<!--
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawrou&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawrou&layout=compact&theme=radical)
+![Codewars](https://www.codewars.com/users/kawrou/badges/micro)
+-->
+
+
 ## Contact
 📌 **Looking to connect?** Reach out via:  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alan-gardiner-1566892b6/) for job opportunities and networking
